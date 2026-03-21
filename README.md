@@ -3,7 +3,7 @@
 
 ## Informações Gerais
 
-Nome: Daniel Mendonça de Oliveira Campos
+Nome: Daniel Mendonça de Oliveira Campos<br>
 Matricula: 901699
 
 ## Tela de inspeção com navegador
